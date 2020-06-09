@@ -1,4 +1,4 @@
-# autoattenddiscord
+# attend
 
 **Purpose**
 The purpose of this script is to never miss an attendence check, break time or watch during bootcamp, because it's easy to lose track of time while coding
