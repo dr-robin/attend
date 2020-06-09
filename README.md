@@ -1,4 +1,4 @@
-# attend
+# attendbecode
 
 **Purpose**
 The purpose of this script is to never miss an attendence check, break time or techtalk during bootcamp, because it's easy to lose track of time while coding
