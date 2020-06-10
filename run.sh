@@ -1,2 +1,2 @@
 #!/bin/sh
-python3 attendbecode.py
+python3 attend.py
